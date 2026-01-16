@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main (){
-            printf("niga world");
+            printf("normalworld");
              return 0;
          }
